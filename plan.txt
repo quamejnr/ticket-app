@@ -1,0 +1,8 @@
+Ticket APP
+
+Features
+-UserDetails
+-Validate UserDetails
+-total number of tickets
+-Tickets available
+-UserTickets
